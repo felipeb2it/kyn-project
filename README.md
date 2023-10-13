@@ -1,4 +1,4 @@
-# Small web service using gorilla 
+# Small web service using gorilla/mux 
 
 This Servce Accept a json document with a single value to securely encrypt and decrypt.
 
